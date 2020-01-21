@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e91c96ad.chunk.css",
+    "main.js": "/static/js/main.44fa4d99.chunk.js",
+    "main.js.map": "/static/js/main.44fa4d99.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ebb9d084.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ebb9d084.js.map",
+    "static/js/2.52b6b7da.chunk.js": "/static/js/2.52b6b7da.chunk.js",
+    "static/js/2.52b6b7da.chunk.js.map": "/static/js/2.52b6b7da.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.75e6bdf04c852ca70c0c10472b131126.js": "/precache-manifest.75e6bdf04c852ca70c0c10472b131126.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e91c96ad.chunk.css.map": "/static/css/main.e91c96ad.chunk.css.map",
+    "static/js/2.52b6b7da.chunk.js.LICENSE": "/static/js/2.52b6b7da.chunk.js.LICENSE",
+    "static/media/100up.jpg": "/static/media/100up.92a88b23.jpg",
+    "static/media/cogrammar.jpg": "/static/media/cogrammar.5a034e29.jpg",
+    "static/media/djmonza.jpg": "/static/media/djmonza.9d006482.jpg",
+    "static/media/estratweni.jpg": "/static/media/estratweni.9c8000ae.jpg",
+    "static/media/main-style.css": "/static/media/page-bg-3.4eedd3b1.jpg",
+    "static/media/lchoices.jpg": "/static/media/lchoices.fdf07763.jpg",
+    "static/media/locker.PNG": "/static/media/locker.ff5e9a69.PNG",
+    "static/media/lotto.jpg": "/static/media/lotto.b54c6dd9.jpg",
+    "static/media/management.jpg": "/static/media/management.18edc852.jpg",
+    "static/media/shishadot.png": "/static/media/shishadot.a8867ddd.png",
+    "static/media/uct.jpg": "/static/media/uct.9fc45ce2.jpg",
+    "static/media/uctuhr.jpg": "/static/media/uctuhr.762fc9f5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebb9d084.js",
+    "static/js/2.52b6b7da.chunk.js",
+    "static/css/main.e91c96ad.chunk.css",
+    "static/js/main.44fa4d99.chunk.js"
+  ]
+}
